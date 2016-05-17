@@ -1,0 +1,7 @@
+com\olenick\categories\Major.class
+com\olenick\pageobjects\LoginPage.class
+com\olenick\categories\Critical.class
+com\olenick\util\WebUtil.class
+GmailTest.class
+com\olenick\pageobjects\EmailPage.class
+com\olenick\pageobjects\HomePage.class
